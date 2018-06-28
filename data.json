@@ -127,7 +127,7 @@
             {
                 "name": "Databases",
                 "children" : [
-                    
+
                     {
                         "name": "SQL"
                     },
@@ -155,6 +155,15 @@
             }]
         },
         {
+            "name": "Testing",
+            "children": [
+            {
+                "name": "Unit Testing"},
+                {"name": "Integration Testing"},
+                {"name": "End-To-End Testing"}
+            ]
+        },
+        {
             "name": "Other",
             "children": [
             {
@@ -164,7 +173,8 @@
                 {"name": "Data Structures"},
                 {"name": "Algorithms"}
             ]
-        }]
+        }
+        ]
     },
     {
         "name": "Mobile Development"
