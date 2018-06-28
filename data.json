@@ -1,0 +1,175 @@
+{
+    "name": "Development",
+    "children": [
+    {
+        "name": "Web Development",
+        "children": [
+        {
+            "name": "Intro",
+            "children": [
+            {
+                "name": "Front-End Vs. Back-End",
+                "url": "https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png"
+            },
+            {
+                "name": "Request Lifecycle"
+            },
+            {
+                "name": "Version Control"
+            },
+            {
+                "name": "Package Managers"
+            },
+            {
+                "name": "Terminal"
+            },
+            {
+                "name": "Text Editors"
+            },
+            {
+                "name": "Frameworks Vs. Libraries"
+            },
+              {
+                "name": "RESTFUL APIs",
+                "children": [
+                 {
+                "name": "JSON Vs XML"
+            }]
+            }
+           ]
+        },
+        {
+            "name": "Back-End",
+            "children": [
+            {
+                "name": "Languages",
+                "children": [
+                {
+                    "name": "Java",
+                    "children": [
+                    {
+                        "name": "Documentation"
+                    },
+                    {
+                        "name": "Frameworks",
+                        "children": [
+                        {
+                            "name": "Spring",
+                            "url": "https://spring.io/"
+                        }]
+                    },
+                    {
+                      "name" : "Build Tools",
+                      "children" : [
+                        {
+                          "name" : "Gradle"
+                        },
+                        {
+                          "name" : "Maven"
+                        },
+                        {
+                          "name" : "Ant"
+                        }
+                      ]
+                    },
+                    {
+                        "name" : "Sample Project",
+                        "children" : [
+                    {
+                        "name" : "Basic"
+                    },{
+                        "name" : "Intermediate"
+                    },
+                    {
+                        "name" : "Advanced"
+                    }
+                ]
+                    }]
+                },
+                {
+                  "name": "Python"
+                },
+                {
+                  "name" : "PHP"
+                },
+                {
+                  "name" : "Node JS"
+                },
+                {
+                  "name" : "Ruby"
+                }]
+            },
+            {
+                "name": "Sample Projects",
+                "children" : [
+                    {
+                        "name" : "Overview"
+                    },
+                    {
+                        "name" : "Basic"
+                    },
+                    {
+                        "name" : "Intermediate"
+                    },
+                    {
+                        "name" : "Advanced"
+                    }
+                ]
+
+            },
+            {
+                "name": "Concepts",
+                    "children": [
+                        {"name": "MVC"},
+                        {"name": "Caching"}
+                    ]
+            },
+            {
+                "name": "Databases",
+                "children" : [
+                    {
+                        "name": "SQL"
+                    },
+                    {
+                        "name": "NOSQL"
+                    }
+                ]
+            }]
+        },
+        {
+            "name": "Front-End",
+            "children": [
+            {
+                "name": "Frameworks"},
+                {"name": "Javascript"},
+                {"name": "Concepts"
+            }]
+        },
+        {
+            "name": "Dev-Ops",
+            "children": [
+            {
+                "name": "Deployment"},
+                {"name": "Containers"
+            }]
+        },
+        {
+            "name": "Other",
+            "children": [
+            {
+                "name": "Design Patterns"},
+                {"name": "Best Practices"},
+                {"name": "Agile Methodologies"},
+                {"name": "Data Structures"},
+                {"name": "Algorithms"}
+            ]
+        }]
+    },
+    {
+        "name": "Mobile Development"
+    },
+    {
+        "name": "Desktop Applications"
+    }
+    ]
+}
